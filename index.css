@@ -4,8 +4,8 @@
     padding: 0;
 }
 body{
+    overflow-x: hidden;
     text-align: center;
-    border: 4px solid rgb(28, 111, 117);
     background-color: beige;
 }
 .main{
@@ -17,4 +17,7 @@ body{
 }
 .background{
     background-image: url("l1.jpg");
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
