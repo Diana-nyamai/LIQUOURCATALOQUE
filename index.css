@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body{
+    text-align: center;
+    border: 2px solid blue;
+}
+.main{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid blue;
+}
+.background{
+    background-image: url("l1.jpg");
+    background-color: #cccccc;
+}
