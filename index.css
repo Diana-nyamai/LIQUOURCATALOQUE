@@ -4,15 +4,18 @@
     padding: 0;
 }
 body{
+    overflow-x: hidden;
     text-align: center;
-    border: 2px solid blue;
+    background-color: beige;
 }
 .main{
     margin: 20px;
-    padding: 20px;
-    border: 1px solid blue;
+    padding:0;
+    box-shadow: 5px 8px 5px 5px #888888;
+    border-radius: 5px;
+    background-color: rgb(76, 0, 255);
 }
-.background{
-    background-image: url("l1.jpg");
-    background-color: #cccccc;
+img{
+   max-width: 100%;
+    height: auto;
 }
