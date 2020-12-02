@@ -6,6 +6,8 @@
 body{
     overflow-x: hidden;
     text-align: center;
+    align-items: center;
+    justify-content: center;
     background-color: beige;
 }
 .main{
@@ -13,11 +15,20 @@ body{
     padding:0;
     box-shadow: 5px 8px 5px 5px #888888;
     border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
     
 }
 img{
    max-width: 100%;
     height: auto;
+}
+.price-list{
+    background: ;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 .price-list h1{
     color: black;
