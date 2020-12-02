@@ -19,3 +19,18 @@ img{
    max-width: 100%;
     height: auto;
 }
+.price-list h1{
+    color: black;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.price-list p{
+    font-style: italic;
+}
+.price-list .prices{
+    width: 100%;
+}
+.brand,.price{
+    width: 50%;
+    float: left;
+}
