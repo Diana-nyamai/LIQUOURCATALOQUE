@@ -25,6 +25,8 @@ img{
     height: auto;
 }
 .price-list{
+    width: 100%;
+    height: auto;
     background: ;
     text-align: center;
     align-items: center;
@@ -44,4 +46,7 @@ img{
 .brand,.price{
     width: 50%;
     float: left;
+}
+.card-group{
+    width: 100%;
 }
