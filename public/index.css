@@ -63,7 +63,16 @@ img{
 }
 .data{
     width:100%;
+    height: 15px;
     border:1px solid lightblue;
+}
+@media screen and (max-width:800px){
+    .data{
+        height: 45px;
+    }
+    .kc{
+        height: 55px;
+    }
 }
 .ml2 {
     font-weight: 900;
